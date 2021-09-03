@@ -1,6 +1,6 @@
 some_list = [1, 2, 3, 4, 5]
 
 for x, i in enumerate(some_list):
-    print(f'Element {i}: ', xykfkfkf)
+    print(f'Element {i}: ', xykfk)
 
 print('10/10 script')
